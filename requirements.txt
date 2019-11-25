@@ -1,0 +1,8 @@
+pytest
+pytest-json
+pytest-html
+pytest-logger
+pytest-selenium
+python-i18n[YAML]
+
+pyvirtualdisplay

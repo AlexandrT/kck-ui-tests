@@ -1,0 +1,4 @@
+ru:
+  signin_form:
+    login_error: Необходимо заполнить поле «Email».
+    password_error: Необходимо заполнить поле «Пароль».
